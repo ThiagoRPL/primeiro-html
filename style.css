@@ -1,0 +1,34 @@
+body {background-color: rgb(82, 11, 11);
+
+}
+
+
+h1 {
+    color: rgba(6, 53, 65, 0.651);
+    font-style: italic;
+    font-size: 50px;
+    background-color: orange;
+
+
+
+
+}
+
+h2 {
+    color:chartreuse;
+    font-style: normal;
+    font: bold;
+    background-color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+
+
+}
+h3 {
+    color: antiquewhite;
+    background-color: black;
+    
+
+
+}
